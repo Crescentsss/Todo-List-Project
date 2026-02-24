@@ -196,6 +196,5 @@ completedTaskList.addEventListener("click", (e) => {
 });
 
 
-// böylece tamamlanan tasklar geri döndürülebilir olacak, ayrıca tasklara tarih eklenebilir, böylece tamamlanma süresi hesaplanabilir ve tasklara öncelik eklenebilir, böylece kullanıcı hangi taskların daha önemli olduğunu görebilir. tamamlanan tasklar arşivlenebilir, böylece kullanıcı geçmişte tamamladığı taskları görebilir ancak ana listede kalmaz. bu özellikler sayesinde uygulama daha kullanışlı ve işlevsel hale gelecektir.
+// tasklara tarih eklenebilir, tamamlanma süresi hesaplanabilir ve tasklara öncelik eklenebilir, böylece kullanıcı hangi taskların daha önemli olduğunu görebilir. tamamlanan tasklar arşivlenebilir, kullanıcı geçmişte tamamladığı taskları görebilir ancak ana listede kalmaz
 // tamamlama yüzdesi eklenecek buna düzgün gui bulunup % şeklinde gösterilecek, tamamlanan tasklar geri döndürülebilir olacak, tasklara tarih eklenebilir, tamamlanma süresi hesaplanabilir, tasklara öncelik eklenebilir, tamamlanan tasklar arşivlenebilir gibi özellikler eklenebilir.
-// ayrıca bu projeyi geliştirmek isteyenler için github reposu açılabilir ve katkıda bulunmak isteyenler pull request atabilirler. bu sayede proje daha da gelişebilir ve daha fazla özellik eklenebilir.
